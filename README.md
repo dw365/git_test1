@@ -1,3 +1,3 @@
 # git_test1
 this is my first git project 
-auther datta waghmare
+author datta waghmare
